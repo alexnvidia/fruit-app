@@ -1,0 +1,2 @@
+Fruta-app: Order Automation Platform for Fruit Wholesalers
+Fruta-App is a web application designed to automate and streamline order management for a fruit wholesaler. It's tailored for local fruit shops to place personalized orders and view updated weekly prices based on the type of client. The app facilitates communication between the client and the wholesaler, allows order tracking, and manages the inventory of products.
